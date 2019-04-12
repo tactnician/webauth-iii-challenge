@@ -2,6 +2,10 @@
   "name": "json-tokens",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon server.js"
+  },
   "repository": "https://github.com/LambdaSchool/webauth-iii-challenge.git",
   "author": "tactnician <tactnician@gmail.com>",
   "license": "MIT",
